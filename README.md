@@ -8,3 +8,4 @@ The size of the image feed to the network is 64*64*3. We trained the model for 1
 of 85.5%. 
 The trained model is present here.
 The codes are in jupiter notebook.
+# gender-detection
